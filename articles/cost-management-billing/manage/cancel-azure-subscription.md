@@ -40,7 +40,7 @@ The following examples illustrate how billing periods could end:
 
 After your pay your final bill, keep the following points in mind.
 
-- Azure doesn’t immediately delete your data. Data is preserved temporarily in case you decide to reactivate your subscription later. Azure doesn't charge you for data that is temporarily kept.
+- Azure doesn’t immediately  your data. Data is preserved temporarily in case you decide to reactivate your subscription later. Azure doesn't charge you for data that is temporarily kept.
 - Azure doesn't immediately delete the subscription.
 - Azure never automatically deletes your Azure account. If you want to delete your Azure account, see [How do I delete my Azure account](#how-do-i-delete-my-azure-account).
 
@@ -114,7 +114,7 @@ After you cancel, your services are disabled. That means your virtual machines a
 
 :::image type="content" source="./media/cancel-azure-subscription/cancel-window.png" alt-text="Screenshot showing the cancellation window." lightbox="./media/cancel-azure-subscription/cancel-window.png" :::
 
-After you cancel a subscription, your billing stops immediately. You can delete your subscription directly using the Azure portal seven days after you cancel it, when the **Delete subscription** option becomes available. When your subscription is canceled, Microsoft waits 30 to 90 days before permanently deleting your data in case you need to access it or recover your data. We don't charge you for retaining the data. For more information, see [Microsoft Trust Center - How we manage your data](https://go.microsoft.com/fwLink/p/?LinkID=822930).
+After you cancel a subscription, your billing stops immediately. You can delete your subscription directly using the Azure portal 15 minutes after you cancel it, when the **Delete subscription** option becomes available. When your subscription is canceled, Microsoft waits 30 to 90 days before permanently deleting your data in case you need to access it or recover your data. We don't charge you for retaining the data. For more information, see [Microsoft Trust Center - How we manage your data](https://go.microsoft.com/fwLink/p/?LinkID=822930).
 
 >[!NOTE]
 > You must manually cancel your SaaS subscriptions before you cancel your Azure subscription. Only pay-as-you-go SaaS subscriptions are cancelled automatically by the Azure subscription cancellation process.
@@ -139,7 +139,7 @@ Depending on your subscription type, you might not be able to delete a subscript
 
 >[!NOTE]
 > - The subscription is automatically deleted 90 days after you cancel a subscription.
-> - You can also contact Microsoft Support to help you remove a subscription. However you must make sure that you don't need the subscription anymore because the process only allows seven days to reactivate the subscription.
+> - You can also contact Microsoft Support to help you delete a subscription. However you must make sure that you don't need the subscription anymore because the process only allows seven days to reactivate the subscription.
 > - If you have deleted all resources but the Delete your subscription page shows that you still have active resources, you might have active *hidden resources*. You can't delete a subscription if you have active hidden resources. To delete them, navigate to **Subscriptions** > select the subscription > **Resources**. At the top of the page, select **Manage view** and then select **Show hidden types**. Then, delete the resources.
 
 ## Reactivate a subscription
